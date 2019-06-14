@@ -4,6 +4,8 @@ var color2 = document.querySelector(".color2");
 var body = document.getElementById("gradient");
 var button = document.getElementById("randomizeBackground");
 
+console.log("yep");
+
 function changeGradient(){
 	body.style.background = 
 	"linear-gradient(to right, " 
