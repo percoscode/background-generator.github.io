@@ -1,0 +1,22 @@
+{
+  "name": "background-generator.github.io",
+  "version": "1.0.0",
+  "description": "generates gradient backgrounds",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/percoscode/background-generator.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/percoscode/background-generator.github.io/issues"
+  },
+  "homepage": "https://github.com/percoscode/background-generator.github.io#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
