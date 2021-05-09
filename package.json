@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/percoscode/background-generator.github.io#readme",
   "dependencies": {
-    "lodash": "^4.17.13"
+    "lodash": "^4.17.21"
   }
 }
